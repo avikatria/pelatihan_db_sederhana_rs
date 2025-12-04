@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="rumahsakit_ddp" id="DA7840CB-9A31-5922-7BAB-4E31D1BE8091" version="3.5">
+<createdBy>AVIKA</createdBy>
+<createdTime>2024-06-08 14:14:12 UTC</createdTime>
+<ownerDesignName>rumahsakit_ddp</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>DA7840CB-9A31-5922-7BAB-4E31D1BE8091</designId>
+</OSDM_Design>
